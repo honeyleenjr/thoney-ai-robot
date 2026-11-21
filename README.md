@@ -98,9 +98,7 @@ The final OAS is a working, demonstrable security workflow — not just a proof 
 
 ![System architecture](screenshots/system-architecture.png)
 
-![THONEY — front, with printed casing](screenshots/robot-front-casing.png)
-
-![THONEY — current open build](screenshots/robot-open-build.png)
+<img src="screenshots/robot-open-build.jpg" alt="THONEY — current build, face screen on" width="440">
 
 *More photos in the `screenshots/` folder: the animated face display, casing views, the open-build close-up, and the original design sketch.*
 
