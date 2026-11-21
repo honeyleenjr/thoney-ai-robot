@@ -12,7 +12,7 @@ THONEY is a voice-controlled AI robot companion — *Study. Work. Play. Protect.
 ## Phase 1 — THONEY, the AI Robot Assistant (Senior Design, 2025)
 
 **BS Electrical and Computer Engineering Technology — Senior Design Project**
-January – May 2025 · Advisor: Dr. Kazi Ahmed
+January – May 2025 · Advisor: Dr. K. Ahmed
 
 ### Overview
 
@@ -57,7 +57,7 @@ The final evaluation (May 7, 2025) demonstrated live voice interaction with GPT-
 ## Phase 2 — OAS: Securing the Robot (Graduate Project, 2026)
 
 **MS Cybersecurity — Project I: Object-Based Authentication for a Robotic System**
-Spring 2026 · Advisor: Prof. Paolo Gasti
+Spring 2026 · Advisor: Prof. P. Gasti
 
 ### Overview
 
