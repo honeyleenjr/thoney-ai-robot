@@ -34,14 +34,6 @@ THONEY is an interactive, intelligent robotic assistant built around OpenAI's GP
 - **Entertainment hub** — chess, tarot, music, videos, and games
 - **Mobility** — Sphero RVR+ base with a dual-power setup (RVR+ battery or wall power, with back-feed protection)
 
-### Prebuilt / planned (integrated, awaiting hardware or setup)
-
-- Facial recognition login (prebuilt; requires ELP camera)
-- Voice snapshot — *"Thoney, take a photo"*
-- NFC login and fingerprint unlock (UI toggles integrated; sensors to be installed)
-- Smart home automation (MQTT scenes ready: Good Night, Morning Routine, Movie Mode)
-- Multi-language voice support (prebuilt with gTTS)
-
 ### Hardware & cost
 
 Raspberry Pi 4 · 7-inch GeeekPi touchscreen · 48MP camera · Sphero RVR+ · speaker, microphone, USB hubs, power bank, custom 3D-printed (STL) casing · **approx. $1,200 total build cost**
@@ -94,13 +86,41 @@ The final OAS is a working, demonstrable security workflow — not just a proof 
 
 ## Gallery
 
+<img src="screenshots/robot-open-build.jpg" alt="THONEY — current build, face screen on" width="440">
+
+*THONEY today — the current open build, face screen on.*
+
+### THONEY (Phase 1)
+
 ![THONEY features](screenshots/features-infographic.png)
 
 ![System architecture](screenshots/system-architecture.png)
 
-<img src="screenshots/robot-open-build.jpg" alt="THONEY — current build, face screen on" width="440">
+<table>
+<tr>
+<td><img src="screenshots/thoney-face-display.png" alt="THONEY animated face display"></td>
+<td><img src="screenshots/robot-open-build-closeup.png" alt="Open build, close-up"></td>
+</tr>
+</table>
 
-*More photos in the `screenshots/` folder: the animated face display, casing views, the open-build close-up, and the original design sketch.*
+### OAS (Phase 2)
+
+![OAS software architecture](screenshots/oas-architecture.png)
+
+![OAS authentication flowchart](screenshots/oas-flowchart.png)
+
+<table>
+<tr>
+<td><img src="screenshots/oas-objects.png" alt="Objects used with OAS"></td>
+<td><img src="screenshots/oas-enroll.png" alt="OAS — enrolling an object"></td>
+</tr>
+<tr>
+<td><img src="screenshots/oas-auth-success.png" alt="OAS — object authenticated"></td>
+<td><img src="screenshots/oas-change-object.png" alt="OAS — changing the authorized object"></td>
+</tr>
+</table>
+
+*More photos in the `screenshots/` folder: casing views and the original design sketch.*
 
 ---
 
